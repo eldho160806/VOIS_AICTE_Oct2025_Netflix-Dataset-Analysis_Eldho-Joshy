@@ -1,15 +1,18 @@
-# Event-Based Data Analysis Project
+# Netflix Dataset Exploratory Data Analysis
 
 ## Overview
-This project focuses on analyzing event-based datasets to identify patterns, trends, and insights using Python. The objective of the project is to clean, explore, and visualize structured data in order to support analytical understanding and reporting.
+This project involves exploratory data analysis on a Netflix dataset to understand content distribution, trends, and patterns. The goal was to analyze structured data and extract meaningful insights through data cleaning and visualization.
 
-The analysis was carried out as part of an academic and skill-development initiative.
+The project focuses on understanding the dataset rather than building predictive models.
 
 ## Objectives
-- Perform data cleaning and preprocessing on event datasets
-- Conduct exploratory data analysis to understand trends and patterns
-- Visualize key findings using charts and graphs
-- Summarize insights in a clear and structured manner
+- Analyze Netflix content data
+- Explore trends in movies and TV shows
+- Understand distribution based on categories and attributes
+- Visualize insights using charts and graphs
+
+## Dataset
+The dataset contains information related to Netflix content, including attributes such as title, category, release details, and other descriptive fields.
 
 ## Tools and Technologies
 - Python
@@ -20,19 +23,19 @@ The analysis was carried out as part of an academic and skill-development initia
 - Jupyter Notebook
 
 ## Project Workflow
-1. Data loading and inspection
-2. Data cleaning and handling missing values
-3. Exploratory data analysis (EDA)
-4. Data visualization
-5. Interpretation of results
+1. Data loading and basic inspection
+2. Data cleaning and preparation
+3. Exploratory data analysis
+4. Visualization of key trends
+5. Interpretation of findings
 
 ## Key Insights
-- Identified patterns and variations across different events
-- Observed trends based on time and event categories
-- Visualized comparisons to support analytical understanding
+- Identified trends in content types and distribution
+- Analyzed patterns across different categories
+- Visualized data to highlight meaningful insights
 
 ## Conclusion
-This project helped strengthen my understanding of data analysis concepts, data visualization techniques, and structured analytical thinking using Python.
+This project enhanced my skills in exploratory data analysis, data visualization, and working with real-world datasets using Python.
 
 ## Author
 Eldho Joshy
